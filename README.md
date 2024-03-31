@@ -1,5 +1,5 @@
 # A Coupon Website
-This project represents my knowledge as a full stack developer.
+This project represents my knowledge as a full stack developer as of November 2022.
 <br>
 Backend: Java, Spring Boot, REST and SQL
 <br>
